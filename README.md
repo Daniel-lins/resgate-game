@@ -8,7 +8,7 @@ Pode acessar o projeto no link abaixo<br>
 
 ## Sobre o projeto
 
-Projeto feio no bootcamp JavaScript Game Developer da <a href="https://digitalinnovation.one/">Digital Innovation one </a>
+Projeto feito no bootcamp JavaScript Game Developer da <a href="https://digitalinnovation.one/">Digital Innovation one </a>
 
 
 ## Game
