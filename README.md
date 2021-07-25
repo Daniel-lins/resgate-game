@@ -20,4 +20,4 @@ Projeto feito no bootcamp JavaScript Game Developer da <a href="https://digitali
 - HTML
 - JavaScript
 - CSS
-
+- JQuery
